@@ -1,0 +1,14 @@
+[
+  {
+    "task": "buy milk",
+    "completed": false
+  },
+  {
+    "task": "buy books",
+    "completed": true
+  },
+  {
+    "task": "buy coffee",
+    "completed": false
+  }
+]
