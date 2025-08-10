@@ -1,2 +1,3 @@
-# node-console-todo
-Copilot developed console app in Node.js
+# Node Console To-Do
+
+A simple to-do list application built with Node.js.
